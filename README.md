@@ -1,3 +1,3 @@
-Hi, I'm Lucas. I'm currently a second-year student at UCCS (expected May 2026), and I'm an aspiring Software Engineer. At the moment I'm taking classes to learn to program in C and UNIX.
+Hi, I'm Lucas. I'm currently a third-year student at UCCS (expected May 2026), and I'm an aspiring Software Engineer. I've taken classes to learn programming concepts, and fluency in Java, C, C++, Bash, Unix, RISC-V Assembly, and more.
 You can look at my C code in my repository labeled "CS2060 Class Code". 
 Looking for internships!
