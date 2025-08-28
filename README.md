@@ -9,4 +9,4 @@ My biggest finished project on here is under the repo "CS3300-Semester-Project".
 
 At the moment, I'm working on GrocLog, a web-based application that allows the user to keep track of their own grocery spending. It's still in the early stages right now but feel free to take a look! The project is under CS3110-GrocLog
 
-Please Reach Out! Looking for internships!
+Please reach out! Looking for work!
